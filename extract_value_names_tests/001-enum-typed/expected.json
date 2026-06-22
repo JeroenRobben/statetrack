@@ -1,0 +1,7 @@
+{
+  "decode": {
+    "s->phase": { "0": "ST_INIT", "1": "ST_RUN", "2": "ST_DONE" },
+    "s->role": { "10": "ROLE_CLIENT", "11": "ROLE_SERVER" }
+  },
+  "numeric": [ "s->counter" ]
+}

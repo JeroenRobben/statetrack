@@ -1,0 +1,6 @@
+{
+  "decode": {
+    "s->msg": { "19713": "MSG_HELLO", "19714": "MSG_BYE" }
+  },
+  "numeric": []
+}

@@ -1,0 +1,6 @@
+{
+  "decode": {
+    "s->mode": { "0": "MODE_OFF", "1": "MODE_ON" }
+  },
+  "numeric": []
+}

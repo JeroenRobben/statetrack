@@ -1,0 +1,6 @@
+{
+  "decode": {
+    "c->action": { "0": "ACT_NONE", "1": "ACT_READ", "2": "ACT_WRITE" }
+  },
+  "numeric": []
+}
